@@ -109,28 +109,39 @@ certifications:
   - name: Encouragement Award
     start: March 2023
     #end: 2021
-    #organization: SNU-LH
+    organization: Seoul National University
     #credentialid: 111-222
     #credentialurl: www.google.com
     #credentialname: Source
     details: |
-      Seoul National University–Korea Land & Housing Corporation (SNU–LH) City Data Analysis Program
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Source
+      Seoul National University–Korea Land & Housing Corporation (SNU–LH) City Data Analysis Program, Seoul, Korea.
+  - name: 1st Place – Computer Fundamentals (Division 700)
+    start: February 2005
+    #end:
+    organization: University of Illinois at Urbana-Champaign
+    #credentialid: 111-222
+    #credentialurl: www.github.com
+    #credentialname: Source
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      Worldwide Youth in Science Engineering (WYSE) 2005, organized by the University of Illinois at Urbana-Champaign; competition held at Rend Lake College, Ina, Illinois, USA.
+  - name: 2nd Place – Accounting I
+    start: February 2005
+    #end:
+    organization: Southern Illinois University Carbondale
+    #credentialid: 111-222
+    #credentialurl: www.github.com
+    #credentialname: Source
+    details: |
+      7th Annual Accounting Challenge, School of Accountancy, Southern Illinois University Carbondale, Carbondale, Illinois, USA.
+  - name: 3rd Place – Web Design Contest (with Jeff Schneider and Austin Morgan)
+    start: April 2005
+    #end:
+    organization: Southern Illinois University Carbondale
+    #credentialid: 111-222
+    #credentialurl: www.github.com
+    #credentialname: Source
+    details: |
+      Computer Science Day, Southern Illinois University Carbondale, Carbondale, Illinois, USA.
 
 projects:
   title: Projects
