@@ -138,7 +138,7 @@ certifications:
 conferences:
   title: Presentations & Conferences
   list:
-  - name: <li>Do Neighbors Influence the Performance of Local Governments?</li>
+  - name: <li>Do Neighbors Influence the Performance of Local Governments?
     #start: April 2024
     #end: 2021
     organization: April 2024
@@ -147,7 +147,7 @@ conferences:
     #credentialname: Source
     details: |
       <i>American Society for Public Administration (ASPA) Annual Conference</i>, Minneapolis, Minnesota, USA.<br>
-      Role: Presenter (Oral Presentation)
+      Role: Presenter (Oral Presentation)</li>
   - name: Assessing the Adequacy of Measures for Evaluating the Economic Capacity of Local Governments
     #start: January 2024
     #end:
