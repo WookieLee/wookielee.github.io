@@ -30,21 +30,16 @@ sidebar:
 career-profile:
   title: ABOUT
   summary: |
-    Jeongwook Lee is a Ph.D. candidate in Public Administration at Seoul National University. His research focuses on local governance, policy analysis, and program evaluation. He applies data science to evaluate and forecast the economic power of local governments, integrating spatial econometrics, machine learning and deep learning, and policy analytics. His work spans applications from predicting city-level economic indicators—such as GDP, residents’ income and consumption, and merchants’ sales—to evaluating local government performance and analyzing public health systems, with particular attention to local governance, equity, and health disparities.
+    Jeongwook Lee is a Ph.D. candidate in Public Administration at Seoul National University. His research focuses on local governance, policy analysis, and program evaluation. He applies data science to evaluate and forecast the economic power of local governments, integrating spatial econometrics, machine learning and deep learning, and policy analytics. His work spans applications from nowcasting and forecasting city-level economic indicators—such as GDP, residents’ income and consumption, and merchants’ sales—to evaluating local government performance and analyzing public health systems, with particular attention to local governance, equity, and health disparities.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Ph.D. Candidate in Public Administration
+    university: Seoul National University
+    time: August 2025
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Dissertation: Three Essays on Economic Power of Local Governments<br>
+      Advisor: Professor Kilkon Ko
   - degree: BSc in Applied Mathematics
     university: Bristol University
     time: 2007 - 2011
