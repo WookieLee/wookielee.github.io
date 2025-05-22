@@ -14,7 +14,7 @@ sidebar:
 
   # Sidebar links
   email: jeongwook@outlook.com
-  website: http://jeongwook.com # Include the full website URL, including "http://" or "https://".
+  website: https://jeongwook.com # Include the full website URL, including "http://" or "https://".
   github: WookieLee
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
@@ -158,7 +158,7 @@ conferences:
     details: |
       <i>SNU-VUW Conference 2024</i>, Victoria University of Wellington, Auckland, New Zealand.<br>
       Role: Presenter (Oral Presentation)
-  - name: <b>Enhancing Fiscal Data Analysis with Custom Python Widgets</b>
+  - name: <b>Enhancing Government Fiscal Data Analysis with Custom Python Widgets</b>
     #start: October 2024
     #end:
     organization: October 2024
