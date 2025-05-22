@@ -35,22 +35,32 @@ education:
   title: Education
   info:
   - degree: Ph.D. Candidate in Public Administration
-    university: Seoul National University
+    university: Graduate School of Public Administration, Seoul National University
     time: August 2025
     details: |
-      Dissertation: Three Essays on Economic Power of Local Governments<br>
+      <i>Dissertation: Three Essays on Economic Power of Local Governments</i><br>
       Advisor: Professor Kilkon Ko
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: Master of Public Policy (MPP)
+    university: Graduate School of Public Administration, Seoul National University
+    time: February 2021
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      <i>Thesis: Factors Affecting Open Data Initiatives in Local Governments in Korea: A Spatial Econometric Analysis</i><br>
+      Advisor: Professor Kilkon Ko
+  - degree: B.A. in Political Science
+    university: Department of Political Science, Seoul National University
+    time: August 2013
+    details: |
+      Graduated <i>magna cum laude</i>.
+  - degree: Daegu Foreign Language High School
+    university: Daegu, Korea
+    time: February 2006
+    details: |
+      Graduated with a major in English and additional coursework in Japanese and Chinese.
+  - degree: Pinckneyville Community High School
+    university: Pinckneyville, Illinois, USA
+    time: September 2004 – June 2005
+    details: |
+      U.S. Department of State Exchange Program.
 
 experiences:
   title: Experiences
