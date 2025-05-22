@@ -63,45 +63,18 @@ education:
       U.S. Department of State Exchange Program.
 
 experiences:
-  title: Experiences
+  title: Government Research Projects
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Research Associate
+    time: December 2020 - May 2021
+    company: Ministry of Economy and Finance, Korea
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      In-depth Assessment of Fiscal Projects: Projects of Building Big Data Platforms.
+  - role: Research Associate
+    time: July 2022 – November 2022
+    company: Ministry of Health and Welfare, Korea
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Job Analysis in Local Healthcare Organizations and Research on Strategies to Secure Adequate Human Resources.
 
 certifications:
   title: AWARDS & HONORS
@@ -133,7 +106,7 @@ certifications:
     #credentialname: Source
     details: |
       7th Annual Accounting Challenge, School of Accountancy, Southern Illinois University Carbondale, Carbondale, Illinois, USA.
-  - name: 3rd Place – Web Design Contest (with Jeff Schneider and Austin Morgan)
+  - name: 3rd Place – Web Design Contest
     start: April 2005
     #end:
     organization: Southern Illinois University Carbondale
@@ -141,7 +114,7 @@ certifications:
     #credentialurl: www.github.com
     #credentialname: Source
     details: |
-      Computer Science Day, Southern Illinois University Carbondale, Carbondale, Illinois, USA.
+      Teamed with Jeff Schneider and Austin Morgan. Computer Science Day, Southern Illinois University Carbondale, Carbondale, Illinois, USA.
 
 projects:
   title: Projects
