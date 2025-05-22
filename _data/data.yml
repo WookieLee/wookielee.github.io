@@ -62,6 +62,25 @@ education:
     details: |
       U.S. Department of State Exchange Program.
 
+publications:
+  title: Publications
+  intro: |
+  papers:
+  - title: "Assessing the Adequacy of Measures for Evaluating the Economic Power of Local Governments"
+    link: "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003120614"
+    authors: <b>Lee, J.</b> & Ko, K. (2024).
+    conference: "Korean Public Administration Review, 58(3), 157-189"
+
+  - title: "Spatial Analysis of Health System Factors in Infectious Disease Management: Lessons Learned from the COVID-19 Pandemic in Korea"
+    link: "https://doi.org/10.3390/healthcare12151484"
+    authors: <b>Lee, J.</b> & Lee, S. (2024).
+    conference: "Healthcare, 12(15), 1484"
+
+  - title: "Impact of Changes in Public Officials Recruitment Test Subjects on Public Service Motivation: A Difference-in-Differences (DID) Approach"
+    link: "https://doi.org/10.37727/jkdas.2024.26.4.1105"
+    authors: <b>Lee, J.</b> (2024). 
+    conference: "Journal of The Korean Data Analysis Society, 26(4), 1105-1119"
+
 experiences:
   title: Government Research Projects
   info:
@@ -75,6 +94,46 @@ experiences:
     company: Ministry of Health and Welfare, Korea
     details: |
       Job Analysis in Local Healthcare Organizations and Research on Strategies to Secure Adequate Human Resources.
+
+certifications:
+  title: AWARDS & HONORS
+  list:
+  - name: Encouragement Award
+    start: March 2023
+    #end: 2021
+    organization: Seoul National University
+    #credentialid: 111-222
+    #credentialurl: www.google.com
+    #credentialname: Source
+    details: |
+      Seoul National University–Korea Land & Housing Corporation (SNU–LH) City Data Analysis Program, Seoul, Korea.
+  - name: 1st Place – Computer Fundamentals (Division 700)
+    start: February 2005
+    #end:
+    organization: University of Illinois at Urbana-Champaign
+    #credentialid: 111-222
+    #credentialurl: www.github.com
+    #credentialname: Source
+    details: |
+      Worldwide Youth in Science Engineering (WYSE) 2005, organized by the University of Illinois at Urbana-Champaign; competition held at Rend Lake College, Ina, Illinois, USA.
+  - name: 2nd Place – Accounting I
+    start: February 2005
+    #end:
+    organization: Southern Illinois University Carbondale
+    #credentialid: 111-222
+    #credentialurl: www.github.com
+    #credentialname: Source
+    details: |
+      7th Annual Accounting Challenge, School of Accountancy, Southern Illinois University Carbondale, Carbondale, Illinois, USA.
+  - name: 3rd Place – Web Design Contest
+    start: April 2005
+    #end:
+    organization: Southern Illinois University Carbondale
+    #credentialid: 111-222
+    #credentialurl: www.github.com
+    #credentialname: Source
+    details: |
+      Teamed with Jeff Schneider and Austin Morgan. Computer Science Day, Southern Illinois University Carbondale, Carbondale, Illinois, USA.
 
 certifications:
   title: AWARDS & HONORS
@@ -157,52 +216,6 @@ oss:
   - title: Delta
     link: "#"
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-  papers:
-  - title: "Assessing the Adequacy of Measures for Evaluating the Economic Power of Local Governments"
-    link: "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003120614"
-    authors: <b>Lee, J.</b> & Ko, K. (2024).
-    conference: "Korean Public Administration Review, 58(3), 157-189"
-
-  - title: "Spatial Analysis of Health System Factors in Infectious Disease Management: Lessons Learned from the COVID-19 Pandemic in Korea"
-    link: "https://doi.org/10.3390/healthcare12151484"
-    authors: <b>Lee, J.</b> & Lee, S. (2024).
-    conference: "Healthcare, 12(15), 1484"
-
-  - title: "Impact of Changes in Public Officials Recruitment Test Subjects on Public Service Motivation: A Difference-in-Differences (DID) Approach"
-    link: "https://doi.org/10.37727/jkdas.2024.26.4.1105"
-    authors: <b>Lee, J.</b> (2024). 
-    conference: "Journal of The Korean Data Analysis Society, 26(4), 1105-1119"
-
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
-
-skills:
-  title: Skills &amp; Proficiency
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
