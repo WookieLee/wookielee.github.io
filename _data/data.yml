@@ -139,35 +139,35 @@ conferences:
   title: Presentations & Conferences
   list:
   - name: Do Neighbors Influence the Performance of Local Governments?
-    start: April 2024
+    #start: April 2024
     #end: 2021
-    organization: Oral Presentation
+    organization: April 2024
     #credentialid: 111-222
     #credentialurl: www.google.com
     #credentialname: Source
     details: |
       <i>American Society for Public Administration (ASPA) Annual Conference</i>, Minneapolis, Minnesota, USA.<br>
-      Role: Presenter
+      Role: Presenter (Oral Presentation)
   - name: Assessing the Adequacy of Measures for Evaluating the Economic Capacity of Local Governments
-    start: January 2024
+    #start: January 2024
     #end:
-    organization: Oral Presentation
+    organization: January 2024
     #credentialid: 111-222
     #credentialurl: www.github.com
     #credentialname: Source
     details: |
       <i>SNU-VUW Conference 2024</i>, Victoria University of Wellington, Auckland, New Zealand.<br>
-      Role: Presenter
+      Role: Presenter (Oral Presentation)
   - name: Enhancing Fiscal Data Analysis with Custom Python Widgets
-    start: October 2024
+    #start: October 2024
     #end:
-    organization: Oral Presentation
+    organization: October 2024
     #credentialid: 111-222
     #credentialurl: www.github.com
     #credentialname: Source
     details: |
       <i>Korean Association for Policy Analysis and Evaluation Annual Fall Conference</i>, Seoul National University, Seoul, Korea.<br>
-      Role: Presenter
+      Role: Presenter (Oral Presentation)
 
 projects:
   title: Projects
