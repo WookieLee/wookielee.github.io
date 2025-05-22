@@ -35,19 +35,19 @@ education:
   title: Education
   info:
   - degree: Ph.D. Candidate in Public Administration
-    university: Graduate School of Public Administration, Seoul National University
+    university: Graduate School of Public Administration, <b>Seoul National University</b>
     time: August 2025
     details: |
       Dissertation: <i>Three Essays on Economic Power of Local Governments</i><br>
       Advisor: Professor Kilkon Ko
   - degree: Master of Public Policy (MPP)
-    university: Graduate School of Public Administration, Seoul National University
+    university: Graduate School of Public Administration, <b>Seoul National University</b>
     time: February 2021
     details: |
       Thesis: <i>Factors Affecting Open Data Initiatives in Local Governments in Korea: A Spatial Econometric Analysis</i><br>
       Advisor: Professor Kilkon Ko
   - degree: B.A. in Political Science, <i>magna cum laude</i>
-    university: Department of Political Science, Seoul National University
+    university: Department of Political Science, <b>Seoul National University</b>
     time: August 2013
     details: |
       Undergraduate Thesis: <i>How Homeownership and Housing Prices Influence Voting Behavior in South Korea: Evidence from Presidential, General, and Local Elections in the 2000s
@@ -104,36 +104,24 @@ experiences:
         - Bullet point
 
 certifications:
-  title: Certifications
+  title: AWARDS & HONORS
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+  - name: Encouragement Award
+    start: March 2023
+    #end: 2021
+    #organization: SNU-LH
+    #credentialid: 111-222
+    #credentialurl: www.google.com
+    #credentialname: Source
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
+      Seoul National University–Korea Land & Housing Corporation (SNU–LH) City Data Analysis Program
   - name: Git learning
     start: 2019
     end:
     organization: Microsoft
     credentialid: 111-222
     credentialurl: www.github.com
-    credentialname: Github
+    credentialname: Source
     details: |
       Older certification. Lorem ipsum dolor sit amet, consectetur
       adipiscing elit.
