@@ -34,29 +34,29 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: Ph.D. Candidate in Public Administration
+  - degree: <b>Ph.D. Candidate in Public Administration</b>
     university: Graduate School of Public Administration, <b>Seoul National University</b>
     time: August 2025
     details: |
       Dissertation: <i>Three Essays on Economic Power of Local Governments</i><br>
       Advisor: Professor Kilkon Ko
-  - degree: Master of Public Policy (MPP)
+  - degree: <b>Master of Public Policy (MPP)</b>
     university: Graduate School of Public Administration, <b>Seoul National University</b>
     time: February 2021
     details: |
       Thesis: <i>Factors Affecting Open Data Initiatives in Local Governments in Korea: A Spatial Econometric Analysis</i><br>
       Advisor: Professor Kilkon Ko
-  - degree: B.A. in Political Science, <i>magna cum laude</i>
+  - degree: <b>B.A. in Political Science, <i>magna cum laude</i></b>
     university: Department of Political Science, <b>Seoul National University</b>
     time: August 2013
     details: |
       Undergraduate Thesis: <i>How Homeownership and Housing Prices Influence Voting Behavior in South Korea: Evidence from Presidential, General, and Local Elections in the 2000s
-  - degree: Daegu Foreign Language High School
+  - degree: <b>Daegu Foreign Language High School</b>
     university: Daegu, Korea
     time: February 2006
     details: |
       Graduated with a major in English and additional coursework in Japanese and Chinese.
-  - degree: Pinckneyville Community High School
+  - degree: <b>Pinckneyville Community High School</b>
     university: Pinckneyville, Illinois, USA
     time: September 2004 – June 2005
     details: |
@@ -66,17 +66,17 @@ publications:
   title: Publications
   intro: |
   papers:
-  - title: "Assessing the Adequacy of Measures for Evaluating the Economic Power of Local Governments"
+  - title: Assessing the Adequacy of Measures for Evaluating the Economic Power of Local Governments
     link: "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003120614"
     authors: <b>Lee, J.</b> & Ko, K. (2024).
     conference: "Korean Public Administration Review, 58(3), 157-189"
 
-  - title: "Spatial Analysis of Health System Factors in Infectious Disease Management: Lessons Learned from the COVID-19 Pandemic in Korea"
+  - title: Spatial Analysis of Health System Factors in Infectious Disease Management: Lessons Learned from the COVID-19 Pandemic in Korea
     link: "https://doi.org/10.3390/healthcare12151484"
     authors: <b>Lee, J.</b> & Lee, S. (2024).
     conference: "Healthcare, 12(15), 1484"
 
-  - title: "Impact of Changes in Public Officials Recruitment Test Subjects on Public Service Motivation: A Difference-in-Differences (DID) Approach"
+  - title: Impact of Changes in Public Officials Recruitment Test Subjects on Public Service Motivation: A Difference-in-Differences (DID) Approach
     link: "https://doi.org/10.37727/jkdas.2024.26.4.1105"
     authors: <b>Lee, J.</b> (2024). 
     conference: "Journal of The Korean Data Analysis Society, 26(4), 1105-1119"
@@ -84,12 +84,12 @@ publications:
 experiences:
   title: Government Research Projects
   info:
-  - role: Research Associate
+  - role: <b>Research Associate</b>
     time: December 2020 - May 2021
     company: Ministry of Economy and Finance, Korea
     details: |
       In-depth Assessment of Fiscal Projects: Projects of Building Big Data Platforms.
-  - role: Research Associate
+  - role: <b>Research Associate</b>
     time: July 2022 – November 2022
     company: Ministry of Health and Welfare, Korea
     details: |
@@ -98,7 +98,7 @@ experiences:
 certifications:
   title: AWARDS & HONORS
   list:
-  - name: Encouragement Award
+  - name: <b>Encouragement Award</b>
     start: March 2023
     #end: 2021
     organization: Seoul National University
@@ -107,7 +107,7 @@ certifications:
     #credentialname: Source
     details: |
       Seoul National University–Korea Land & Housing Corporation (SNU–LH) City Data Analysis Program, Seoul, Korea.
-  - name: 1st Place – Computer Fundamentals (Division 700)
+  - name: <b>1st Place – Computer Fundamentals (Division 700)</b>
     start: February 2005
     #end:
     organization: University of Illinois at Urbana-Champaign
@@ -116,7 +116,7 @@ certifications:
     #credentialname: Source
     details: |
       Worldwide Youth in Science Engineering (WYSE) 2005, organized by the University of Illinois at Urbana-Champaign; competition held at Rend Lake College, Ina, Illinois, USA.
-  - name: 2nd Place – Accounting I
+  - name: <b>2nd Place – Accounting I</b>
     start: February 2005
     #end:
     organization: Southern Illinois University Carbondale
@@ -125,7 +125,7 @@ certifications:
     #credentialname: Source
     details: |
       7th Annual Accounting Challenge, School of Accountancy, Southern Illinois University Carbondale, Carbondale, Illinois, USA.
-  - name: 3rd Place – Web Design Contest
+  - name: <b>3rd Place – Web Design Contest</b>
     start: April 2005
     #end:
     organization: Southern Illinois University Carbondale
@@ -148,7 +148,7 @@ conferences:
     details: |
       <i>American Society for Public Administration (ASPA) Annual Conference</i>, Minneapolis, Minnesota, USA.<br>
       Role: Presenter (Oral Presentation)
-  - name: Assessing the Adequacy of Measures for Evaluating the Economic Capacity of Local Governments
+  - name: <b>Assessing the Adequacy of Measures for Evaluating the Economic Capacity of Local Governments</b>
     #start: January 2024
     #end:
     organization: January 2024
@@ -158,7 +158,7 @@ conferences:
     details: |
       <i>SNU-VUW Conference 2024</i>, Victoria University of Wellington, Auckland, New Zealand.<br>
       Role: Presenter (Oral Presentation)
-  - name: Enhancing Fiscal Data Analysis with Custom Python Widgets
+  - name: <b>Enhancing Fiscal Data Analysis with Custom Python Widgets</b>
     #start: October 2024
     #end:
     organization: October 2024
