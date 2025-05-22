@@ -138,7 +138,7 @@ certifications:
 conferences:
   title: Presentations & Conferences
   list:
-  - name: Do Neighbors Influence the Performance of Local Governments?
+  - name: <li>Do Neighbors Influence the Performance of Local Governments?</li>
     #start: April 2024
     #end: 2021
     organization: April 2024
