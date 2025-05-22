@@ -189,24 +189,21 @@ oss:
 publications:
   title: Publications
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
   papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+  - title: "Assessing the Adequacy of Measures for Evaluating the Economic Power of Local Governments"
+    link: "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003120614"
+    authors: <b>Lee, J.<b> & Ko, K. (2024).
+    conference: "Korean Public Administration Review, 58(3), 157-189"
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+  - title: "Spatial Analysis of Health System Factors in Infectious Disease Management: Lessons Learned from the COVID-19 Pandemic in Korea"
+    link: "https://doi.org/10.3390/healthcare12151484"
+    authors: <b>Lee, J.<b> & Lee, S. (2024).
+    conference: "Healthcare, 12(15), 1484"
 
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+  - title: "Impact of Changes in Public Officials Recruitment Test Subjects on Public Service Motivation: A Difference-in-Differences (DID) Approach"
+    link: "https://doi.org/10.37727/jkdas.2024.26.4.1105"
+    authors: <b>Lee, J.<b> (2024). 
+    conference: "Journal of The Korean Data Analysis Society, 26(4), 1105-1119"
 
 recommendations:
   title: Recommendations
