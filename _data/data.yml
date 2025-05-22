@@ -5,178 +5,175 @@
 sidebar:
   position: right # position of the sidebar : left or right
   about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  name: Jeongwook Lee
+  tagline: Ph.D. candidate in Public Administration
+  avatar: jw.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
+  email: jeongwook@outlook.com
+  website: http://jeongwook.com # Include the full website URL, including "http://" or "https://".
+  github: WookieLee
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Korean
       level: Native
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
-
-  interests:
-    title: Interests
-    info:
-    - item: Climbing
-      link:
-
-
-    - item: Snowboarding
-      link:
-
-
-    - item: Cooking
-      link:
-
+    - idiom: English
+      level: Fluent
 
 career-profile:
-  title: Career Profile
+  title: ABOUT
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Jeongwook Lee is a Ph.D. candidate in Public Administration at Seoul National University. His research focuses on local governance, policy analysis, and program evaluation. He applies data science to evaluate and forecast the economic power of local governments, integrating spatial econometrics, machine learning and deep learning, and policy analytics. His work spans applications from nowcasting and forecasting city-level economic indicators—such as GDP, residents’ income and consumption, and merchants’ sales—to evaluating local government performance and analyzing public health systems, with particular attention to local governance, equity, and health disparities.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Ph.D. Candidate in Public Administration
+    university: Graduate School of Public Administration, <b>Seoul National University</b>
+    time: August 2025
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+      Dissertation: <i>Three Essays on Economic Power of Local Governments</i><br>
+      Advisor: Professor Kilkon Ko
+  - degree: Master of Public Policy (MPP)
+    university: Graduate School of Public Administration, <b>Seoul National University</b>
+    time: February 2021
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Thesis: <i>Factors Affecting Open Data Initiatives in Local Governments in Korea: A Spatial Econometric Analysis</i><br>
+      Advisor: Professor Kilkon Ko
+  - degree: B.A. in Political Science, <i>magna cum laude</i>
+    university: Department of Political Science, <b>Seoul National University</b>
+    time: August 2013
+    details: |
+      Undergraduate Thesis: <i>How Homeownership and Housing Prices Influence Voting Behavior in South Korea: Evidence from Presidential, General, and Local Elections in the 2000s
+  - degree: Daegu Foreign Language High School
+    university: Daegu, Korea
+    time: February 2006
+    details: |
+      Graduated with a major in English and additional coursework in Japanese and Chinese.
+  - degree: Pinckneyville Community High School
+    university: Pinckneyville, Illinois, USA
+    time: September 2004 – June 2005
+    details: |
+      U.S. Department of State Exchange Program.
+
+publications:
+  title: Publications
+  intro: |
+  papers:
+  - title: "Assessing the Adequacy of Measures for Evaluating the Economic Power of Local Governments"
+    link: "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003120614"
+    authors: <b>Lee, J.</b> & Ko, K. (2024).
+    conference: "Korean Public Administration Review, 58(3), 157-189"
+
+  - title: "Spatial Analysis of Health System Factors in Infectious Disease Management: Lessons Learned from the COVID-19 Pandemic in Korea"
+    link: "https://doi.org/10.3390/healthcare12151484"
+    authors: <b>Lee, J.</b> & Lee, S. (2024).
+    conference: "Healthcare, 12(15), 1484"
+
+  - title: "Impact of Changes in Public Officials Recruitment Test Subjects on Public Service Motivation: A Difference-in-Differences (DID) Approach"
+    link: "https://doi.org/10.37727/jkdas.2024.26.4.1105"
+    authors: <b>Lee, J.</b> (2024). 
+    conference: "Journal of The Korean Data Analysis Society, 26(4), 1105-1119"
 
 experiences:
-  title: Experiences
+  title: Government Research Projects
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Research Associate
+    time: December 2020 - May 2021
+    company: Ministry of Economy and Finance, Korea
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      In-depth Assessment of Fiscal Projects: Projects of Building Big Data Platforms.
+  - role: Research Associate
+    time: July 2022 – November 2022
+    company: Ministry of Health and Welfare, Korea
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Job Analysis in Local Healthcare Organizations and Research on Strategies to Secure Adequate Human Resources.
 
 certifications:
-  title: Certifications
+  title: AWARDS & HONORS
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+  - name: Encouragement Award
+    start: March 2023
+    #end: 2021
+    organization: Seoul National University
+    #credentialid: 111-222
+    #credentialurl: www.google.com
+    #credentialname: Source
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      Seoul National University–Korea Land & Housing Corporation (SNU–LH) City Data Analysis Program, Seoul, Korea.
+  - name: 1st Place – Computer Fundamentals (Division 700)
+    start: February 2005
+    #end:
+    organization: University of Illinois at Urbana-Champaign
+    #credentialid: 111-222
+    #credentialurl: www.github.com
+    #credentialname: Source
+    details: |
+      Worldwide Youth in Science Engineering (WYSE) 2005, organized by the University of Illinois at Urbana-Champaign; competition held at Rend Lake College, Ina, Illinois, USA.
+  - name: 2nd Place – Accounting I
+    start: February 2005
+    #end:
+    organization: Southern Illinois University Carbondale
+    #credentialid: 111-222
+    #credentialurl: www.github.com
+    #credentialname: Source
+    details: |
+      7th Annual Accounting Challenge, School of Accountancy, Southern Illinois University Carbondale, Carbondale, Illinois, USA.
+  - name: 3rd Place – Web Design Contest
+    start: April 2005
+    #end:
+    organization: Southern Illinois University Carbondale
+    #credentialid: 111-222
+    #credentialurl: www.github.com
+    #credentialname: Source
+    details: |
+      Teamed with Jeff Schneider and Austin Morgan. Computer Science Day, Southern Illinois University Carbondale, Carbondale, Illinois, USA.
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
+certifications:
+  title: AWARDS & HONORS
+  list:
+  - name: Encouragement Award
+    start: March 2023
+    #end: 2021
+    organization: Seoul National University
+    #credentialid: 111-222
+    #credentialurl: www.google.com
+    #credentialname: Source
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      Seoul National University–Korea Land & Housing Corporation (SNU–LH) City Data Analysis Program, Seoul, Korea.
+  - name: 1st Place – Computer Fundamentals (Division 700)
+    start: February 2005
+    #end:
+    organization: University of Illinois at Urbana-Champaign
+    #credentialid: 111-222
+    #credentialurl: www.github.com
+    #credentialname: Source
+    details: |
+      Worldwide Youth in Science Engineering (WYSE) 2005, organized by the University of Illinois at Urbana-Champaign; competition held at Rend Lake College, Ina, Illinois, USA.
+  - name: 2nd Place – Accounting I
+    start: February 2005
+    #end:
+    organization: Southern Illinois University Carbondale
+    #credentialid: 111-222
+    #credentialurl: www.github.com
+    #credentialname: Source
+    details: |
+      7th Annual Accounting Challenge, School of Accountancy, Southern Illinois University Carbondale, Carbondale, Illinois, USA.
+  - name: 3rd Place – Web Design Contest
+    start: April 2005
+    #end:
+    organization: Southern Illinois University Carbondale
+    #credentialid: 111-222
+    #credentialurl: www.github.com
+    #credentialname: Source
+    details: |
+      Teamed with Jeff Schneider and Austin Morgan. Computer Science Day, Southern Illinois University Carbondale, Carbondale, Illinois, USA.
 
 projects:
   title: Projects
@@ -219,68 +216,6 @@ oss:
   - title: Delta
     link: "#"
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
-
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
-
-skills:
-  title: Skills &amp; Proficiency
-
-  toolset:
-  - name: Python & Django
-    level: 98%
-
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
-    level: 85%
-
-  - name: Sketch & Photoshop
-    level: 60%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

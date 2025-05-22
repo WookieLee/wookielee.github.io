@@ -109,9 +109,12 @@ p {
     margin-bottom: 15px;
   }
   .degree {
-    font-size: 14px;
+    font-size: 13.5px;
+    line-height: 1.5;         /* Ensure vertical spacing */
     margin-top: 0;
     margin-bottom: 5px;
+    padding-bottom: 2px;      /* Add space below to prevent cropping */
+    display: flex;           /* Ensure full vertical rendering */
   }
   .education-container {
     .item {
