@@ -136,44 +136,38 @@ certifications:
       Teamed with Jeff Schneider and Austin Morgan. Computer Science Day, Southern Illinois University Carbondale, Carbondale, Illinois, USA.
 
 conferences:
-  title: AWARDS & HONORS
+  title: Presentations & Conferences
   list:
-  - name: Encouragement Award
-    start: March 2023
+  - name: Do Neighbors Influence the Performance of Local Governments?
+    start: April 2024
     #end: 2021
-    organization: Seoul National University
+    organization: Oral Presentation
     #credentialid: 111-222
     #credentialurl: www.google.com
     #credentialname: Source
     details: |
-      Seoul National University–Korea Land & Housing Corporation (SNU–LH) City Data Analysis Program, Seoul, Korea.
-  - name: 1st Place – Computer Fundamentals (Division 700)
-    start: February 2005
+      <i>American Society for Public Administration (ASPA) Annual Conference</i>, Minneapolis, Minnesota, USA.<br>
+      Role: Presenter
+  - name: Assessing the Adequacy of Measures for Evaluating the Economic Capacity of Local Governments
+    start: January 2024
     #end:
-    organization: University of Illinois at Urbana-Champaign
+    organization: Oral Presentation
     #credentialid: 111-222
     #credentialurl: www.github.com
     #credentialname: Source
     details: |
-      Worldwide Youth in Science Engineering (WYSE) 2005, organized by the University of Illinois at Urbana-Champaign; competition held at Rend Lake College, Ina, Illinois, USA.
-  - name: 2nd Place – Accounting I
-    start: February 2005
+      <i>SNU-VUW Conference 2024</i>, Victoria University of Wellington, Auckland, New Zealand.<br>
+      Role: Presenter
+  - name: Enhancing Fiscal Data Analysis with Custom Python Widgets
+    start: October 2024
     #end:
-    organization: Southern Illinois University Carbondale
+    organization: Oral Presentation
     #credentialid: 111-222
     #credentialurl: www.github.com
     #credentialname: Source
     details: |
-      7th Annual Accounting Challenge, School of Accountancy, Southern Illinois University Carbondale, Carbondale, Illinois, USA.
-  - name: 3rd Place – Web Design Contest
-    start: April 2005
-    #end:
-    organization: Southern Illinois University Carbondale
-    #credentialid: 111-222
-    #credentialurl: www.github.com
-    #credentialname: Source
-    details: |
-      Teamed with Jeff Schneider and Austin Morgan. Computer Science Day, Southern Illinois University Carbondale, Carbondale, Illinois, USA.
+      <i>Korean Association for Policy Analysis and Evaluation Annual Fall Conference</i>, Seoul National University, Seoul, Korea.<br>
+      Role: Presenter
 
 projects:
   title: Projects
