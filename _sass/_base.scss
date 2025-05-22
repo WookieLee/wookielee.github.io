@@ -110,8 +110,11 @@ p {
   }
   .degree {
     font-size: 14px;
+    line-height: 1.4;         /* Ensure vertical spacing */
     margin-top: 0;
     margin-bottom: 5px;
+    padding-bottom: 2px;      /* Add space below to prevent cropping */
+    display: block;           /* Ensure full vertical rendering */
   }
   .education-container {
     .item {
