@@ -175,7 +175,7 @@ software:
   - name: <b>Geographic Identifier Standardization Module for Kolabpy/b>
     start: 2021
     end: Present
-    organization: Language: <b>Python</b>
+    organization: "Language: <b>Python</b>"
     #credentialid: 111-222
     credentialurl: pypi.org/user/wookie/
     credentialname: PyPi
@@ -184,7 +184,7 @@ software:
   - name: <b>Interactive Choropleth Mapping Module for Kolabpy</b>
     start: 2021
     end: Present
-    organization: Language: <b>Python</b>
+    organization: "Language: <b>Python</b>"
     #credentialid: 111-222
     credentialurl: pypi.org/user/wookie/
     credentialname: PyPi
