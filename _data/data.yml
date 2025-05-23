@@ -87,9 +87,9 @@ manuscripts:
     <li>You can list your publications in this section. Lorem ipsum dolor sit
     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     bibendum fringilla a eu lectus.</li>
-  papers:
-  - title: Assessing the Adequacy of Measures for Evaluating the Economic Power of Local Governments
-    authors: <b>Lee, J.</b> & Ko, K. (2024).
+    <li>You can list your publications in this section. Lorem ipsum dolor sit
+    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    bibendum fringilla a eu lectus.</li>
 
 experiences:
   title: Government Research Projects
@@ -117,7 +117,7 @@ academic-experience:
     time: March 2024 - February 2025
     company: Seoul National University
     details: |
-      Developed Python scripts to automate data collection, cleaning, processing, and statistical analysis in support of advisor’s research.
+      Developed Python scripts to automate data collection, cleaning, processing, and statistical analysis in support of advisor’s research.<br>
   - role: <b>Teaching Assistant for Statistical Consulting</b>
     time: December 2021 – July 2023
     company: Seoul National University
