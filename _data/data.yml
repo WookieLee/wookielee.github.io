@@ -170,17 +170,17 @@ conferences:
       Role: Presenter (Oral Presentation)
 
 software:
-  title: AWARDS & HONORS
+  title: Open Source Software Contributions
   list:
-  - name: <b>Encouragement Award</b>
-    start: March 2023
+  - name: <b>Interactive choropleth mapping module in Kolabpy</b>
+    start: 2022
     #end: 2021
-    organization: Seoul National University
+    organization: KOLAB
     #credentialid: 111-222
-    #credentialurl: www.google.com
-    #credentialname: Source
+    credentialurl: https://pypi.org/user/wookie/
+    credentialname: PyPi
     details: |
-      Seoul National University–Korea Land & Housing Corporation (SNU–LH) City Data Analysis Program, Seoul, Korea.
+      Kolabpy is a Python package developed by the members of KOLAB that provides tools for SAS integration, harmonizing region identifiers, and geospatial mapping. Jeongwook contributed two key modules. This module leverages GeoPandas and Folium to generate interactive national choropleth maps at both city and province levels. It merges your region‐coded data with a GeoJSON boundary layer and renders a customizable Folium map complete with color scales and interactivity.
   - name: <b>1st Place – Computer Fundamentals (Division 700)</b>
     start: February 2005
     #end:
