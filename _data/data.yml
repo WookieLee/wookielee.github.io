@@ -125,7 +125,7 @@ certifications:
     #credentialname: Source
     details: |
       <i>This fellowship is awarded to support and recognize outstanding graduate research.
- - name: <b>Brain Korea 21 (BK21) Scholarship</b>
+  - name: <b>Brain Korea 21 (BK21) Scholarship</b>
     start: March 2021
     end: February 2022
     organization: Seoul National University
