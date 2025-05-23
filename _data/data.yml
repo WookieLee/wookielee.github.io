@@ -94,6 +94,25 @@ experiences:
     company: Ministry of Health and Welfare, Korea
     details: |
       Job Analysis in Local Healthcare Organizations and Research on Strategies to Secure Adequate Human Resources.
+  - role: <b>Research Associate</b>
+    time: April 2022
+    company: Statistics Korea
+    details: |
+      Synthesized presentations and discussions from the National Statistical Platform and Digital Innovation Forum and authored a final report summarizing key insights and recommendations.
+
+academic-experience:
+  title: Academic Experience
+  info:
+  - role: <b>Graduate Student Instructor (GSI)</b>
+    time: March 2024 - February 2025
+    company: Seoul National University
+    details: |
+      Developed Python scripts to automate data collection, cleaning, processing, and statistical analysis in support of advisor’s research.
+  - role: <b>Teaching Assistant for Statistical Consulting</b>
+    time: December 2021 – July 2023
+    company: Seoul National University
+    details: |
+      Provided statistical consulting to master’s students working on their theses by advising on study design, data management, statistical methods selection, and results interpretation.
 
 certifications:
   title: AWARDS & HONORS
