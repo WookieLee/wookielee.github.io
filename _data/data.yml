@@ -83,7 +83,10 @@ publications:
 
 manuscripts:
   title: Works in Preparation
-  intro: | <li>Assessing the Adequacy</li>
+  intro: |
+    <li>You can list your publications in this section. Lorem ipsum dolor sit
+    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    bibendum fringilla a eu lectus.</li>
   papers:
   - title: Assessing the Adequacy of Measures for Evaluating the Economic Power of Local Governments
     authors: <b>Lee, J.</b> & Ko, K. (2024).
