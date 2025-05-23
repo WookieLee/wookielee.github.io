@@ -107,6 +107,39 @@ certifications:
     #credentialname: Source
     details: |
       <i>Seoul National University–Korea Land & Housing Corporation (SNU–LH) City Data Analysis Program</i>, Seoul, Korea.
+  - name: <b>Brain Korea 21 (BK21) Scholarship</b>
+    start: March 2023
+    end: February 2024
+    organization: National Research Foundation of Korea (NRF)
+    #credentialid: 111-222
+    #credentialurl: www.google.com
+    #credentialname: Source
+    details: |
+      <i>Brain Korea 21 (BK21) is a government scholarship program funded by the National Research Foundation of Korea (NRF).
+  - name: <b>BK21 Excellent Graduate Student Fellowship</b>
+    start: September 2021
+    end: February 2022
+    organization: National Research Foundation of Korea (NRF)
+    #credentialid: 111-222
+    #credentialurl: www.google.com
+    #credentialname: Source
+    details: |
+  - name: <b>BK21 Scholarship</b>
+    start: March 2021
+    end: February 2022
+    organization: National Research Foundation of Korea (NRF)
+    #credentialid: 111-222
+    #credentialurl: www.google.com
+    #credentialname: Source
+    details: |
+  - name: <b>SNU Academic Excellence Scholarship for New Students</b>
+    start: March 2007
+    #end: 2021
+    organization: Seoul National University
+    #credentialid: 111-222
+    #credentialurl: www.google.com
+    #credentialname: Source
+    details: |
   - name: <b>1st Place – Computer Fundamentals (Division 700)</b>
     start: February 2005
     #end:
@@ -158,7 +191,7 @@ conferences:
     details: |
       <i>SNU-VUW Conference 2024</i>, Victoria University of Wellington, Auckland, New Zealand.<br>
       Role: Presenter (Oral Presentation)
-  - name: <b>Enhancing Government Fiscal Data Analysis with Custom Python Widgets</b>
+  - name: <b>Enhancing Government Fiscal Data Analysis with a Custom Python Widget</b>
     #start: October 2024
     #end:
     organization: October 2024
@@ -166,8 +199,39 @@ conferences:
     #credentialurl: www.github.com
     #credentialname: Source
     details: |
-      <i>Korean Association for Policy Analysis and Evaluation Annual Fall Conference</i>, Seoul National University, Seoul, Korea.<br>
+      <i>Korean Association for Policy Analysis and Evaluation (KAPAE) Annual Fall Conference</i>, Seoul National University, Seoul, Korea.<br>
       Role: Presenter (Oral Presentation)
+
+software:
+  title: Open Source Software Contributions
+  list:
+  - name: <b>Geographic Identifier Standardization Module for Kolabpy</b>
+    start: 2021
+    end: Present
+    organization: "Language: <b>Python</b>"
+    #credentialid: 111-222
+    credentialurl: pypi.org/user/wookie/
+    credentialname: PyPi Link
+    details: |
+      Jeongwook contributed this module to Kolabpy—a Python package developed by members of KOLAB at Seoul National University that offers tools for SAS integration, geographic identifier standardization, and geospatial mapping. The module standardizes region names and codes across diverse datasets, ensuring that all tables, regardless of their original naming conventions, align seamlessly for merges and downstream analysis.
+  - name: <b>Interactive Choropleth Mapping Module for Kolabpy</b>
+    start: 2021
+    end: Present
+    organization: "Language: <b>Python</b>"
+    #credentialid: 111-222
+    credentialurl: pypi.org/user/wookie/
+    credentialname: PyPi Link
+    details: |
+      Jeongwook contributed this module to Kolabpy, leveraging GeoPandas and Folium to generate interactive national choropleth maps at both city and province levels. The module merges region-coded data with a GeoJSON boundary layer and renders a fully customizable Folium map complete with color scales, tooltips, and interactivity.
+  - name: <b>Government Fiscal Data Analysis Widget</b>
+    start: 2024
+    end: Present
+    organization: "Language: <b>Python</b>"
+    #credentialid: 111-222
+    credentialurl: github.com/WookieLee/data/blob/fiscal_data/data_widget.py
+    credentialname: GitHub Link
+    details: |
+      This Python widget, presented at the 2024 KAPAE conference, provides a streamlined workflow for retrieving and interactively exploring Korean government fiscal data within a Jupyter notebook. It automatically downloads all budget and expenditure tables from an online repository. Its integrated, widget-based interface enables users to select datasets and apply filters by year, department, or other criteria through a graphical panel. All controls are generated dynamically from the loaded data, allowing seamless inspection of any subset of fiscal records without manual coding.
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
