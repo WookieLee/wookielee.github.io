@@ -116,7 +116,7 @@ certifications:
     #credentialname: Source
     details: |
       <i>Brain Korea 21 (BK21) is a government scholarship program funded by the National Research Foundation of Korea (NRF).
-  - name: <b>Brain Korea 21 (BK21) Outstanding Graduate Student Fellowship</b>
+  - name: <b>BK21 Excellent Graduate Student Fellowship</b>
     start: September 2021
     end: February 2022
     organization: Seoul National University
@@ -124,8 +124,7 @@ certifications:
     #credentialurl: www.google.com
     #credentialname: Source
     details: |
-      <i>This fellowship is awarded to support and recognize outstanding graduate research.
-  - name: <b>Brain Korea 21 (BK21) Scholarship</b>
+  - name: <b>BK21 Scholarship</b>
     start: March 2021
     end: February 2022
     organization: Seoul National University
@@ -141,7 +140,6 @@ certifications:
     #credentialurl: www.google.com
     #credentialname: Source
     details: |
-      <i>Seoul National University–Korea Land & Housing Corporation (SNU–LH) City Data Analysis Program</i>, Seoul, Korea.
   - name: <b>1st Place – Computer Fundamentals (Division 700)</b>
     start: February 2005
     #end:
