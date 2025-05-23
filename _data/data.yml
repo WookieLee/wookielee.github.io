@@ -172,7 +172,7 @@ conferences:
 software:
   title: Open Source Software Contributions
   list:
-  - name: <b>Geographic Identifier Standardization Module for Kolabpy/b>
+  - name: <b>Geographic Identifier Standardization Module for Kolabpy</b>
     start: 2021
     end: Present
     organization: "Language: <b>Python</b>"
@@ -181,7 +181,7 @@ software:
     credentialname: PyPi
     details: |
       Jeongwook contributed this module to Kolabpy—a Python package developed by members of KOLAB at Seoul National University that offers tools for SAS integration, geographic identifier standardization, and geospatial mapping. The module standardizes region names and codes across diverse datasets, ensuring that all tables, regardless of their original naming conventions, align seamlessly for merges and downstream analysis.
-  - name: <b>Interactive Choropleth Mapping Module for Kolabpy</b>
+  - name: <b></b>
     start: 2021
     end: Present
     organization: "Language: <b>Python</b>"
@@ -190,9 +190,9 @@ software:
     credentialname: PyPi
     details: |
       Jeongwook contributed this module to Kolabpy, leveraging GeoPandas and Folium to generate interactive national choropleth maps at both city and province levels. The module merges region-coded data with a GeoJSON boundary layer and renders a fully customizable Folium map complete with color scales, tooltips, and interactivity.
-  - name: <b>1st Place – Computer Fundamentals (Division 700)</b>
-    start: February 2005
-    #end:
+  - name: <b>Government Fiscal Data Analysis Widgets</b>
+    start: 2024
+    end: Present
     organization: University of Illinois at Urbana-Champaign
     #credentialid: 111-222
     #credentialurl: www.github.com
