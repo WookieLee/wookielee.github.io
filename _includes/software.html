@@ -1,37 +1,37 @@
-{% assign conferences = site.data.data.conferences %} {% if conferences %}
-<section class="section conferences-section">
+{% assign software = site.data.data.software %} {% if software %}
+<section class="section software-section">
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-graduation-cap fa-stack-1x fa-inverse"></i>
     </span>
-    {{ conferences.title }}
+    {{ software.title }}
   </h2>
 
-  {% for conferences in conferences.list %}
+  {% for software in software.list %}
   <div class="item">
     <div class="meta">
       <div class="upper-row">
-        <h3 class="cert-title">{{ conferences.name }}</h3>
+        <h3 class="cert-title">{{ software.name }}</h3>
         <div class="time">
-          {{ conferences.start }} {% if conferences.end %} - {{
-          conferences.end }} {% endif %}
+          {{ software.start }} {% if software.end %} - {{
+          software.end }} {% endif %}
         </div>
       </div>
       <!--//upper-row-->
 
       <div class="second-upper-row">
         <div class="cert-org">
-          {{ conferences.organization }} {% if conferences.credentialid %}
-          ({{ conferences.credentialid }}) {% endif %}
+          {{ software.organization }} {% if software.credentialid %}
+          ({{ software.credentialid }}) {% endif %}
         </div>
-        {% if conferences.credentialurl %}
+        {% if software.credentialurl %}
         <div class="cert-url">
           <a
-            href="//{{ conferences.credentialurl }}"
+            href="//{{ software.credentialurl }}"
             target="_blank"
             rel="noreferrer nofollow noopener"
-            >{{ conferences.credentialname }}</a
+            >{{ software.credentialname }}</a
           >
         </div>
         {% endif %}
@@ -39,7 +39,7 @@
     </div>
     <!--//meta-->
 
-    <div class="details">{{ conferences.details | markdownify }}</div>
+    <div class="details">{{ software.details | markdownify }}</div>
   </div>
   <!--//item-->
   {% endfor %}
