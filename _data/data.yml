@@ -158,7 +158,7 @@ conferences:
     details: |
       <i>SNU-VUW Conference 2024</i>, Victoria University of Wellington, Auckland, New Zealand.<br>
       Role: Presenter (Oral Presentation)
-  - name: <b>Enhancing Government Fiscal Data Analysis with Custom Python Widgets</b>
+  - name: <b>Enhancing Government Fiscal Data Analysis with a Custom Python Widget</b>
     #start: October 2024
     #end:
     organization: October 2024
@@ -166,7 +166,7 @@ conferences:
     #credentialurl: www.github.com
     #credentialname: Source
     details: |
-      <i>Korean Association for Policy Analysis and Evaluation Annual Fall Conference</i>, Seoul National University, Seoul, Korea.<br>
+      <i>Korean Association for Policy Analysis and Evaluation (KAPAE) Annual Fall Conference</i>, Seoul National University, Seoul, Korea.<br>
       Role: Presenter (Oral Presentation)
 
 software:
@@ -198,7 +198,7 @@ software:
     credentialurl: github.com/WookieLee/data/blob/fiscal_data/data_widget.py
     credentialname: GitHub Link
     details: |
-      This Python widget provides a streamlined workflow for retrieving and interactively exploring Korean government fiscal data within a Jupyter notebook. It automatically downloads all budget and expenditure tables from an online repository. An integrated, widget-based interface enables users to select datasets and apply filters by year, department, or other criteria via a graphical panel. All controls are generated dynamically from the loaded data, allowing seamless inspection of any subset of the fiscal records without manual coding.
+      This Python widget, presented at the 2024 KAPAE conference, provides a streamlined workflow for retrieving and interactively exploring Korean government fiscal data within a Jupyter notebook. It automatically downloads all budget and expenditure tables from an online repository. Its integrated, widget-based interface enables users to select datasets and apply filters by year, department, or other criteria through a graphical panel. All controls are generated dynamically from the loaded data, allowing seamless inspection of any subset of fiscal records without manual coding.
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
