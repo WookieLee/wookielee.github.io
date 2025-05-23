@@ -172,15 +172,24 @@ conferences:
 software:
   title: Open Source Software Contributions
   list:
-  - name: <b>Interactive choropleth mapping module in Kolabpy</b>
-    start: 2022
-    #end: 2021
-    organization: KOLAB
+  - name: <b>Geographic Identifier Standardization Module for Kolabpy/b>
+    start: 2021
+    end: Present
+    organization: Language: <b>Python</b>
     #credentialid: 111-222
-    credentialurl: https://pypi.org/user/wookie/
+    credentialurl: pypi.org/user/wookie/
     credentialname: PyPi
     details: |
-      Kolabpy is a Python package developed by the members of KOLAB that provides tools for SAS integration, harmonizing region identifiers, and geospatial mapping. Jeongwook contributed two key modules. This module leverages GeoPandas and Folium to generate interactive national choropleth maps at both city and province levels. It merges your region‐coded data with a GeoJSON boundary layer and renders a customizable Folium map complete with color scales and interactivity.
+      Jeongwook contributed this module to Kolabpy—a Python package developed by members of KOLAB at Seoul National University that offers tools for SAS integration, geographic identifier standardization, and geospatial mapping. The module standardizes region names and codes across diverse datasets, ensuring that all tables, regardless of their original naming conventions, align seamlessly for merges and downstream analysis.
+  - name: <b>Interactive Choropleth Mapping Module for Kolabpy</b>
+    start: 2021
+    end: Present
+    organization: Language: <b>Python</b>
+    #credentialid: 111-222
+    credentialurl: pypi.org/user/wookie/
+    credentialname: PyPi
+    details: |
+      Jeongwook contributed this module to Kolabpy, leveraging GeoPandas and Folium to generate interactive national choropleth maps at both city and province levels. The module merges region-coded data with a GeoJSON boundary layer and renders a fully customizable Folium map complete with color scales, tooltips, and interactivity.
   - name: <b>1st Place – Computer Fundamentals (Division 700)</b>
     start: February 2005
     #end:
