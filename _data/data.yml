@@ -178,7 +178,7 @@ software:
     organization: "Language: <b>Python</b>"
     #credentialid: 111-222
     credentialurl: pypi.org/user/wookie/
-    credentialname: PyPi
+    credentialname: PyPi Link
     details: |
       Jeongwook contributed this module to Kolabpy—a Python package developed by members of KOLAB at Seoul National University that offers tools for SAS integration, geographic identifier standardization, and geospatial mapping. The module standardizes region names and codes across diverse datasets, ensuring that all tables, regardless of their original naming conventions, align seamlessly for merges and downstream analysis.
   - name: <b>Interactive Choropleth Mapping Module for Kolabpy</b>
@@ -187,18 +187,18 @@ software:
     organization: "Language: <b>Python</b>"
     #credentialid: 111-222
     credentialurl: pypi.org/user/wookie/
-    credentialname: PyPi
+    credentialname: PyPi Link
     details: |
       Jeongwook contributed this module to Kolabpy, leveraging GeoPandas and Folium to generate interactive national choropleth maps at both city and province levels. The module merges region-coded data with a GeoJSON boundary layer and renders a fully customizable Folium map complete with color scales, tooltips, and interactivity.
-  - name: <b>Government Fiscal Data Analysis Widgets</b>
+  - name: <b>Government Fiscal Data Analysis Widget</b>
     start: 2024
     end: Present
     organization: "Language: <b>Python</b>"
     #credentialid: 111-222
     credentialurl: github.com/WookieLee/data/blob/fiscal_data/data_widget.py
-    credentialname: GitHub
+    credentialname: GitHub Link
     details: |
-      Worldwide Youth in Science Engineering (WYSE) 2005, organized by the University of Illinois at Urbana-Champaign; competition held at Rend Lake College, Ina, Illinois, USA.
+      This Python widget provides a streamlined workflow for retrieving and interactively exploring Korean government fiscal data within a Jupyter notebook. It automatically downloads all budget and expenditure tables from an online repository. An integrated, widget-based interface enables users to select datasets and apply filters by year, department, or other criteria via a graphical panel. All controls are generated dynamically from the loaded data, allowing seamless inspection of any subset of the fiscal records without manual coding.
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
