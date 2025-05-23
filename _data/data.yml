@@ -110,7 +110,7 @@ certifications:
   - name: <b>Brain Korea 21 (BK21) Scholarship</b>
     start: March 2023
     end: February 2024
-    organization: Seoul National University
+    organization: National Research Foundation of Korea (NRF)
     #credentialid: 111-222
     #credentialurl: www.google.com
     #credentialname: Source
@@ -119,7 +119,7 @@ certifications:
   - name: <b>BK21 Excellent Graduate Student Fellowship</b>
     start: September 2021
     end: February 2022
-    organization: Seoul National University
+    organization: National Research Foundation of Korea (NRF)
     #credentialid: 111-222
     #credentialurl: www.google.com
     #credentialname: Source
@@ -127,12 +127,12 @@ certifications:
   - name: <b>BK21 Scholarship</b>
     start: March 2021
     end: February 2022
-    organization: Seoul National University
+    organization: National Research Foundation of Korea (NRF)
     #credentialid: 111-222
     #credentialurl: www.google.com
     #credentialname: Source
     details: |
-  - name: <b>SNU Academic Excellence Scholarship for New Students</b>
+  - name: <b>SNU Academic Excellence Scholarship for New Undergraduate Students</b>
     start: March 2007
     #end: 2021
     organization: Seoul National University
