@@ -84,8 +84,13 @@ publications:
 manuscripts:
   title: Works in Preparation
   intro: |
-    <li>Lee, J. & Ko, K. (in Preparation). Generating Timely Local Economic Indicators: A Simple Benchmarking Approach for Time-Space Disaggregation of Economic Time Series</li>
-    <li>Lee, J. & Ko, K. (in Preparation). Do Neighbors Influence the Performance of Local Governments?</li>
+    <li><b>Lee, J.</b> (in Preparation). Nowcasting and Forecasting Monthly City-Level GDP Using Encoder-Decoder LSTM/GRU Models with Attention Mechanisms</li>
+    <li><b>Lee, J.</b> (in Preparation). Who Are Neighbors? Rethinking Spatial Relationships Between Cities Beyond Contiguity and Distance-Based Weight Matrices</li>
+    <li><b>Lee, J.</b> & Ko, K. (in Preparation). Generating Timely Local Economic Indicators: A Simple Benchmarking Approach for Time-Space Disaggregation of Economic Time Series</li>
+    <li><b>Lee, J.</b> & Ko, K. (in Preparation). Do Neighbors Influence the Performance of Local Governments?</li>
+    <li>Choi, J., <b>Lee, J.</b> & Lim, I. (in Preparation). Deriving and Implementing a Standard Job Classification System for Health Centers to Enhance Community Health Care Delivery</li>
+    <li>Lee, J.</b> & Lee, S. (in Preparation). Policy Perspectives in Nursing: A Literature Review Using a Natural Language Processing-Based Analysis</li>
+  
 
 experiences:
   title: Government Research Projects
