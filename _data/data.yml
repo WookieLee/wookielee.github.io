@@ -38,7 +38,7 @@ education:
     university: Graduate School of Public Administration, <b>Seoul National University</b>
     time: Expected August 2025
     details: |
-      Dissertation: <i>Three Essays on Economic Power of Local Governments</i><br>
+      Dissertation: <i>Three Essays on Economic Power of Local Governments: Conceptualization, Measurement, and Forecasting</i><br>
       Advisor: Professor Kilkon Ko
   - degree: <b>Master of Public Policy (MPP)</b>
     university: Graduate School of Public Administration, <b>Seoul National University</b>
@@ -86,7 +86,7 @@ manuscripts:
   intro: |
     <li><b>Lee, J.</b> (in Preparation). Nowcasting and Forecasting Monthly City-Level GDP Using Encoder-Decoder LSTM/GRU Models with Attention Mechanisms</li>
     <li><b>Lee, J.</b> (in Preparation). Who Are Neighbors? Rethinking Spatial Relationships Between Cities Beyond Contiguity and Distance-Based Weight Matrices</li>
-    <li><b>Lee, J.</b> (in Preparation). Assessing the Innovation City Policy’s Impact on Local Economic Indicators in Korea: A Synthetic Control Approach</li>
+    <li><b>Lee, J.</b> & Ko, K. (in Preparation). Assessing the Innovation City Policy’s Impact on Local Economic Indicators in Korea: A Synthetic Control Approach</li>
     <li><b>Lee, J.</b> & Ko, K. (in Preparation). Generating Timely Local Economic Indicators: A Simple Benchmarking Approach for Time-Space Disaggregation of Economic Time Series</li>
     <li><b>Lee, J.</b> & Ko, K. (in Preparation). Do Neighbors Influence the Performance of Local Governments? </li>
     <li>Choi, J., <b>Lee, J.</b> & Lim, I. (in Preparation). Deriving and Implementing a Standard Job Classification System for Health Centers to Enhance Community Health Care Delivery</li>
@@ -96,6 +96,11 @@ manuscripts:
 experiences:
   title: Government Research Projects
   info:
+  - role: <b>Research Assistant</b>
+    time: June 2025 - 
+    company: Ministry of Personnel Management, Korea
+    details: |
+      A Study on Enhancing Compatibility of Recruitment Systems in the Public Sector.
   - role: <b>Research Assistant</b>
     time: December 2020 - May 2021
     company: Ministry of Economy and Finance, Korea
