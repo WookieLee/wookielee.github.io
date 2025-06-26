@@ -97,11 +97,6 @@ experiences:
   title: Government Research Projects
   info:
   - role: <b>Research Assistant</b>
-    time: June 2025 - 
-    company: Ministry of Personnel Management, Korea
-    details: |
-      A Study on Enhancing Compatibility of Recruitment Systems in the Public Sector.
-  - role: <b>Research Assistant</b>
     time: December 2020 - May 2021
     company: Ministry of Economy and Finance, Korea
     details: |
@@ -116,7 +111,12 @@ experiences:
     company: Statistics Korea
     details: |
       Synthesized presentations and discussions from the National Statistical Platform and Digital Innovation Forum and authored a final report summarizing key insights and recommendations.
-
+  - role: <b>Research Assistant</b>
+    time: June 2025 - 
+    company: Ministry of Personnel Management, Korea
+    details: |
+      A Study on Enhancing Compatibility of Recruitment Systems in the Public Sector.
+      
 academic-experience:
   title: Academic Experience
   info:
