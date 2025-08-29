@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Jeongwook Lee
-  tagline: Ph.D. candidate in Public Administration
+  tagline: Ph.D. in Public Administration
   #avatar: jw.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -30,7 +30,7 @@ sidebar:
 career-profile:
   title: ABOUT
   summary: |
-    Jeongwook Lee is a Ph.D. candidate in Public Administration at Seoul National University. His research focuses on local governance, policy analysis, and program evaluation. He applies data science to evaluate and forecast the economic power of local governments, integrating spatial econometrics, machine learning and deep learning, and policy analytics. His work spans applications from nowcasting and forecasting city-level economic indicators—such as GDP, residents’ income and consumption, and merchants’ sales—to evaluating local government performance and analyzing public health systems, with particular attention to local governance, equity, and health disparities.
+    Jeongwook Lee is a Ph.D. in Public Administration at Seoul National University. His research focuses on local governance, policy analysis, and program evaluation. He applies data science to evaluate and forecast the economic power of local governments, integrating spatial econometrics, machine learning and deep learning, and policy analytics. His work spans applications from nowcasting and forecasting city-level economic indicators—such as GDP, residents’ income and consumption, and merchants’ sales—to evaluating local government performance and analyzing public health systems, with particular attention to local governance, equity, and health disparities.
 education:
   title: Education
   info:
